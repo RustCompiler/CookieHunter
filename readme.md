@@ -13,8 +13,12 @@
 <img src="https://github.com/RustCompiler/CookieHunter/blob/main/footage/ToolPhoto.png">
 
 
-<br>
-# For Use Single Directory 
->Video in action
-<br>
+# For Use Single Directory
+> Video in action
+
 <img src="https://github.com/RustCompiler/CookieHunter/blob/main/footage/single%20CTJ.gif">
+
+<br>
+
+# For Use Tree Directory
+<img src="https://github.com/RustCompiler/CookieHunter/blob/main/footage/tree%20CTJ.gif">
