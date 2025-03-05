@@ -22,3 +22,9 @@
 
 # For Use Tree Directory
 <img src="https://github.com/RustCompiler/CookieHunter/blob/main/footage/tree%20CTJ.gif">
+
+
+
+*I'll add a few things at the end.
+*I made this project just for fun. My programming language is not Python.
+*But I'm trying to learn it little by little.
